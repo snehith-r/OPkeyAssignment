@@ -1,4 +1,5 @@
 # Intelligent Dog Breed Assistant
+![Alt text](images/my-image.png)
 
 ## Overview
 
