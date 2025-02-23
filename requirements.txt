@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+elasticsearch==8.15.1
+openai
+pydantic
+python-dotenv
+pymupdf
+tiktoken
+transformers
+eland[pytorch]
+griffe==0.36.9
+giskard[llm]
+sentence-transformers
+
+
