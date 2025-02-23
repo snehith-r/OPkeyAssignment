@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is a **Dog Breed Assistant** that allows users to ask questions about dog breeds and retrieve relevant information using **Elasticsearch** and **OpenAI's GPT models**. The system employs hybrid search techniques, including **BM25 keyword search, vector search, and semantic reranking**.
+This project is a **Dog Breed Assistant** that allows users to ask questions about dog breeds and retrieve relevant information using **Elasticsearch** and **OpenAI's GPT models**. The system employs hybrid search techniques, including **BM25 keyword search, vector search, and hybrid search**.
 
 ## Features
 
@@ -32,6 +32,7 @@ This project is a **Dog Breed Assistant** that allows users to ask questions abo
 ### **3. LangChain**
 
 - Used for building an intelligent agent that can:
+  - Agetn uses ReAct prompting to choose the tool
   - Retrieve information from Elasticsearch.
   - Perform **question-answering** using OpenAI models.
   - Combine multiple tools (e.g., data analysis, search retrieval).
