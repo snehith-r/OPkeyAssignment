@@ -1,5 +1,5 @@
 # Intelligent Dog Breed Assistant
-![Project Screenshot](images/screenshot.png)
+![Project Screenshot](images/design.png)
 
 ## Overview
 
